@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://arunss1997.github.io/csb-f2nyho/static/css/main.a28c0de9.chunk.css",
+    "main.js": "https://arunss1997.github.io/csb-f2nyho/static/js/main.9a19bc30.chunk.js",
+    "main.js.map": "https://arunss1997.github.io/csb-f2nyho/static/js/main.9a19bc30.chunk.js.map",
+    "runtime-main.js": "https://arunss1997.github.io/csb-f2nyho/static/js/runtime-main.4d7a5190.js",
+    "runtime-main.js.map": "https://arunss1997.github.io/csb-f2nyho/static/js/runtime-main.4d7a5190.js.map",
+    "static/js/2.e1e21380.chunk.js": "https://arunss1997.github.io/csb-f2nyho/static/js/2.e1e21380.chunk.js",
+    "static/js/2.e1e21380.chunk.js.map": "https://arunss1997.github.io/csb-f2nyho/static/js/2.e1e21380.chunk.js.map",
+    "static/js/3.a1a4b074.chunk.js": "https://arunss1997.github.io/csb-f2nyho/static/js/3.a1a4b074.chunk.js",
+    "static/js/3.a1a4b074.chunk.js.map": "https://arunss1997.github.io/csb-f2nyho/static/js/3.a1a4b074.chunk.js.map",
+    "index.html": "https://arunss1997.github.io/csb-f2nyho/index.html",
+    "static/css/main.a28c0de9.chunk.css.map": "https://arunss1997.github.io/csb-f2nyho/static/css/main.a28c0de9.chunk.css.map",
+    "static/js/2.e1e21380.chunk.js.LICENSE.txt": "https://arunss1997.github.io/csb-f2nyho/static/js/2.e1e21380.chunk.js.LICENSE.txt",
+    "static/media/logo.e684a154.JPG": "https://arunss1997.github.io/csb-f2nyho/static/media/logo.e684a154.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d7a5190.js",
+    "static/js/2.e1e21380.chunk.js",
+    "static/css/main.a28c0de9.chunk.css",
+    "static/js/main.9a19bc30.chunk.js"
+  ]
+}
